@@ -8,10 +8,6 @@
 | -------------------------------------------------------- | --------------------------------------- |
 | ![Front of the T-Shirt with your name](assets/front.png) | ![Back of the T-Shirt](assets/back.png) |
 
-
-
-
-
 How to Claim Your Reward 🌟
 
 1. Open a Pull Request on an [Open Source Universe](https://github.com/intellibus/approach) Project
