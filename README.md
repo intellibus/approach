@@ -55,5 +55,5 @@ All Projects in the Open Source Universe should follow the Principles of the Ope
 2. Automated Releases via CI/CD — Release to all Registries via CI/CD Pipeline
 3. Explicit Versioning of All Dependencies — All tooling must have an explicit version # defined.
 4. Automated Dependency Management — Automatically Open & Test a PR w/ new deps. Auto-release on Pass.
-5. Commit Messages as Source of Truth for Change — Release Notes & Version # changes are based on commit messages
+5. Commits as Source of Truth — Release Notes & Version # changes are based on commit messages
 6. Code Quality checks Pre-Commit — Run linters & formatters as a pre-commit hook
