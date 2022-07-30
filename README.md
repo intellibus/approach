@@ -7,50 +7,53 @@
 - [approach](#approach)
   - [Table of Contents](#table-of-contents)
   - [Our Mission](#our-mission)
-  - [Key Problems We Want to Solve](#key-problems-we-want-to-solve)
-  - [Our Approach To Solving these Problems](#our-approach-to-solving-these-problems)
-  - [Benefits of Our Approach](#benefits-of-our-approach)
   - [Our Vision](#our-vision)
-    - [The Open Source Universe](#the-open-source-universe)
     - [Project Categories](#project-categories)
-  - [Our Strategy](#our-strategy)
-    - [Roadmap](#roadmap)
-      - [Phase 1](#phase-1)
-      - [Phase 2](#phase-2)
-      - [Phase 3](#phase-3)
-      - [Phase 4](#phase-4)
-    - [Stages for Each Project](#stages-for-each-project)
+    - [The Open Source Universe](#the-open-source-universe)
   - [Principles](#principles)
-  - [Project Structure](#project-structure)
 
 ## Our Mission
 
-## Key Problems We Want to Solve
+At Intellibus, Our Mission to `Make Life Simple`.
 
-## Our Approach To Solving these Problems
-
-## Benefits of Our Approach
+We do that by `Making Platforms Intelligent`.
 
 ## Our Vision
 
-### The Open Source Universe
+Our Vision is for a world where anyone can build Intelligent Platforms.
+
+To enable that vision, we are creating the Open Source Universe for the Developer Community.
+
+![List of Open Source Universe Projects](/assets/vision.png)
 
 ### Project Categories
 
-## Our Strategy
+Our Projects fall into 4 main categories.
 
-### Roadmap
+1. Blue = Big Picture — Open Data & APIs
+2. Green = Templates — Reliable & Quick Start
+3. Red = Components — Safe & Stable Libraries
+4. Yellow = Frameworks — Connects & Learns
 
-#### Phase 1
+![Open Source Universe Project Categories](/assets/categories.png)
 
-#### Phase 2
+### The Open Source Universe
 
-#### Phase 3
+When creating the Platforms of the Future, Engineers can adopt one or many of the Projects in the Open Source Universe.
 
-#### Phase 4
+However, the Open Source Universe works better as a connected whole.
 
-### Stages for Each Project
+In the diagram below we have the dependency graph for the Projects in the Open Source Universe.
+
+![Dependency Graph for Open Source Universe Projects](assets/connected.png)
 
 ## Principles
 
-## Project Structure
+All Projects in the Open Source Universe should follow the Principles of the Open Source Universe.
+
+1. 100% Code Coverage — Write Unit Tests which cover all functionality in the Project
+2. Automated Releases via CI/CD — Release to all Registries via CI/CD Pipeline
+3. Explicit Versioning of All Dependencies — All tooling must have an explicit version # defined.
+4. Automated Dependency Management — Automatically Open & Test a PR w/ new deps. Auto-release on Pass.
+5. Commit Messages as Source of Truth for Change — Release Notes & Version # changes are based on commit messages
+6. Code Quality checks Pre-Commit — Run linters & formatters as a pre-commit hook
