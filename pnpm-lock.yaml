@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  cz-conventional-changelog: ^3.3.0
+  cz-conventional-changelog: 3.3.0
 
 devDependencies:
   cz-conventional-changelog: 3.3.0
@@ -343,7 +343,7 @@ packages:
     dev: true
 
   /concat-map/0.0.1:
-    resolution: {integrity: sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=}
+    resolution: {integrity: sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==}
     dev: true
 
   /conventional-commit-types/3.0.0:
@@ -402,7 +402,7 @@ packages:
     dev: true
 
   /dedent/0.7.0:
-    resolution: {integrity: sha1-JJXduvbrh0q7Dhvp3yLS5aVEMmw=}
+    resolution: {integrity: sha512-Q6fKUPqnAHAyhiUgFU7BUzLiv0kd8saH9al7tnu5Q/okj6dnupxyTgFIBjVzJATdfIAm9NAsvXNzjaKa+bxVyA==}
     dev: true
 
   /defaults/1.0.3:
