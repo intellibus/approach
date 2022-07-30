@@ -9,7 +9,7 @@
   - [Our Mission](#our-mission)
   - [Our Vision](#our-vision)
     - [Project Categories](#project-categories)
-    - [The `Open Source Universe`](#the-open-source-universe)
+    - [The Open Source Universe](#the-open-source-universe)
   - [Principles](#principles)
 
 ## Our Mission
@@ -30,26 +30,26 @@ To enable that vision, we are creating the `Open Source Universe` for the Develo
 
 Our Projects fall into 4 main categories.
 
-1. Blue = Big Picture — Open Data & APIs
-2. Green = Templates — Reliable & Quick Start
-3. Red = Components — Safe & Stable Libraries
-4. Yellow = Frameworks — Connects & Learns
+1. **Big Picture** — Open Data & APIs
+2. **Templates** — Reliable & Quick Start
+3. **Components** — Safe & Stable Libraries
+4. **Frameworks** — Connects & Learns
 
 ![Open Source Universe Project Categories](/assets/categories.png)
 
-### The `Open Source Universe`
+### The Open Source Universe
 
-When creating the Platforms of the Future, Engineers can adopt one or many of the Projects in the `Open Source Universe`.
+When creating the Platforms of the Future, Engineers can adopt one or many of the Projects in the Open Source Universe.
 
-However, the `Open Source Universe` works better as a connected whole.
+However, the Open Source Universe works better as a connected whole.
 
-In the diagram below we have the dependency graph for the Projects in the `Open Source Universe`.
+In the diagram below we have the *dependency graph* for the Projects in the Open Source Universe.
 
 ![Dependency Graph for Open Source Universe Projects](assets/connected.png)
 
 ## Principles
 
-All Projects in the `Open Source Universe` should follow the Principles of the `Open Source Universe`.
+All Projects in the `Open Source Universe` should follow the Principles of the Open Source Universe.
 
 1. **100% Code Coverage** — Write Unit Tests which cover all functionality in the Project
 2. **Automated Releases via CI/CD** — Release to all Registries via CI/CD Pipeline
